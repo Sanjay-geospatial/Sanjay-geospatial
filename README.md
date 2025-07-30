@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Sanjay M, from Karnataka, India<br><br>- 🔭 I’m working as a GIS Specialist<br>- 📚 I'm currently learning PostGIS and DuckDB<br>- ⚡ In my free time I work on inter-disiciplinary projects dealing with Forestry, remote sensing and Deep learning.</p>
+<p align="left">I'm Sanjay M, from Karnataka, India<br><br>- 🔭 I’m working as a GIS Specialist<br>- 📚 Currently diving deep into spatial databases like <b>PostGIS</b> and <b>DuckDB</b><br>- ⚡ Exploring interdisciplinary projects at the intersection of <b>Forestry</b>, <b>Remote Sensing</b>, and <b>Deep Learning</b><br> </p>
 
 ###
 
@@ -73,3 +73,4 @@
 </div>
 
 ###
+
