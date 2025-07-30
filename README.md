@@ -51,12 +51,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=qgis" height="40" alt="qgis logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="numpy logo"  />
