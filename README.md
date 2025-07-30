@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/sanjay-m-2034b1243/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sanjay-m-2034b1243/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="[https://twitter.com/YOUR_USERNAME](https://x.com/SanjayM1826043?t=2_ddkKLJTc3rK87NLRus8g&s=09)" target="_blank">
+  <a href="https://x.com/SanjayM1826043?t=2_ddkKLJTc3rK87NLRus8g&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
   </a>
-  <a href="[https://www.instagram.com/YOUR_USERNAME](https://www.instagram.com/sanjay_manjappa_?igsh=MTV1OXJpa2NyaWswMg==)" target="_blank">
+  <a href="https://www.instagram.com/sanjay_manjappa_?igsh=MTV1OXJpa2NyaWswMg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
 </div>
