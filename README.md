@@ -47,8 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=qgis" height="40" alt="qgis logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas logo"  />
